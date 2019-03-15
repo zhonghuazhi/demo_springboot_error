@@ -9,5 +9,4 @@ public class DemoSpringbootErrorApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoSpringbootErrorApplication.class, args);
     }
-
 }
